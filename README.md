@@ -1,8 +1,5 @@
 # Good Enough UI (WIP)
 
-I am tired of using React for apps that don't need any React features. I always end up there using it though. Mostly because of how good shadcn is.
-
-
 A lightweight component library for server-side JSX + Alpine.js, styled with Tailwind CSS v4. Built for Hono's JSX runtime but should work with any JSX runtime that outputs HTML strings.
 
 ## Stack
